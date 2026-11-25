@@ -1,0 +1,98 @@
+[
+  {
+    "label": "triangle",
+    "bbox": [
+      65.7,
+      76.4,
+      203.8,
+      207.7
+    ],
+    "centroid": [
+      128.0,
+      128.0
+    ],
+    "rotation_deg": 339.7,
+    "size_px": 80.9,
+    "file": "triangle.png"
+  },
+  {
+    "label": "square",
+    "bbox": [
+      43.4,
+      43.4,
+      212.6,
+      212.6
+    ],
+    "centroid": [
+      128.0,
+      128.0
+    ],
+    "rotation_deg": 57.6,
+    "size_px": 86.7,
+    "file": "square.png"
+  },
+  {
+    "label": "rectangle",
+    "bbox": [
+      55.8,
+      38.8,
+      200.2,
+      217.2
+    ],
+    "centroid": [
+      128.0,
+      128.0
+    ],
+    "rotation_deg": 112.6,
+    "size_px": 77.4,
+    "file": "rectangle.png"
+  },
+  {
+    "label": "pentagon",
+    "bbox": [
+      45.2,
+      52.1,
+      214.8,
+      217.2
+    ],
+    "centroid": [
+      128.0,
+      128.0
+    ],
+    "rotation_deg": 301.9,
+    "size_px": 89.4,
+    "file": "pentagon.png"
+  },
+  {
+    "label": "circle",
+    "bbox": [
+      30.9,
+      30.9,
+      225.1,
+      225.1
+    ],
+    "centroid": [
+      128.0,
+      128.0
+    ],
+    "rotation_deg": 229.8,
+    "size_px": 97.1,
+    "file": "circle.png"
+  },
+  {
+    "label": "ellipse",
+    "bbox": [
+      55.6,
+      82.7,
+      200.4,
+      173.3
+    ],
+    "centroid": [
+      128.0,
+      128.0
+    ],
+    "rotation_deg": 353.7,
+    "size_px": 72.7,
+    "file": "ellipse.png"
+  }
+]
