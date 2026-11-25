@@ -1,0 +1,7 @@
+file,contour,label,confidence,area,pixel_area,perimeter,circularity,n_vertices,elongation,solidity,centroid_x,centroid_y
+triangle.png,0,triangle,0.8672,8417.5,8607,443.69,0.5373,3,1.0062,0.9809,127.25,127.52
+square.png,0,square,0.9017,14927.0,15134,521.35,0.6901,4,1.0032,0.9873,127.5,127.5
+rectangle.png,0,rectangle,0.9264,14265.0,14494,535.53,0.6251,4,1.4757,0.9852,127.5,127.5
+pentagon.png,0,pentagon,0.8901,18891.5,19129,553.77,0.7741,5,1.0145,0.9889,127.55,127.68
+circle.png,0,circle,1.0,29863.0,30140,646.44,0.898,8,1.0018,0.9947,127.5,127.5
+ellipse.png,0,ellipse,0.996,10166.0,10338,395.85,0.8153,8,1.4092,0.9893,127.5,127.5

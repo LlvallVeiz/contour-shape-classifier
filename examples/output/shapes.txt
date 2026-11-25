@@ -1,0 +1,6 @@
+triangle.png:0  triangle conf=0.87 area=8418 circ=0.537 vertices=3 elong=1.01
+square.png:0  square conf=0.90 area=14927 circ=0.690 vertices=4 elong=1.00
+rectangle.png:0  rectangle conf=0.93 area=14265 circ=0.625 vertices=4 elong=1.48
+pentagon.png:0  pentagon conf=0.89 area=18892 circ=0.774 vertices=5 elong=1.01
+circle.png:0  circle conf=1.00 area=29863 circ=0.898 vertices=8 elong=1.00
+ellipse.png:0  ellipse conf=1.00 area=10166 circ=0.815 vertices=8 elong=1.41

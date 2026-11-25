@@ -1,0 +1,6 @@
+scene.png:0  rectangle conf=0.86 area=7952 circ=0.699 vertices=4 elong=1.56
+scene.png:1  circle conf=1.00 area=6364 circ=0.894 vertices=8 elong=1.00
+scene.png:2  pentagon conf=0.74 area=5938 circ=0.772 vertices=6 elong=1.01
+scene.png:3  ellipse conf=0.74 area=5190 circ=0.725 vertices=8 elong=1.81
+scene.png:4  square conf=0.77 area=4800 circ=0.666 vertices=4 elong=1.01
+scene.png:5  triangle conf=0.89 area=3628 circ=0.537 vertices=3 elong=1.01
