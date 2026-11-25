@@ -1,0 +1,6 @@
+# Runtime dependencies (NumPy + Pillow + SciPy; no OpenCV).
+numpy>=1.26
+Pillow>=10
+scipy>=1.11
+# Development dependency (tests only):
+pytest>=8
