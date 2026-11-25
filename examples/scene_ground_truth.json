@@ -1,0 +1,92 @@
+[
+  {
+    "label": "triangle",
+    "bbox": [
+      51.4,
+      46.4,
+      137.8,
+      137.0
+    ],
+    "centroid": [
+      85.5,
+      87.1
+    ],
+    "rotation_deg": 350.0,
+    "size_px": 53.1
+  },
+  {
+    "label": "square",
+    "bbox": [
+      214.6,
+      42.7,
+      303.7,
+      131.7
+    ],
+    "centroid": [
+      259.1,
+      87.2
+    ],
+    "rotation_deg": 199.6,
+    "size_px": 49.3
+  },
+  {
+    "label": "rectangle",
+    "bbox": [
+      390.9,
+      27.2,
+      460.6,
+      149.4
+    ],
+    "centroid": [
+      425.8,
+      88.3
+    ],
+    "rotation_deg": 88.5,
+    "size_px": 60.3
+  },
+  {
+    "label": "pentagon",
+    "bbox": [
+      33.3,
+      199.6,
+      128.7,
+      292.9
+    ],
+    "centroid": [
+      82.4,
+      249.7
+    ],
+    "rotation_deg": 337.0,
+    "size_px": 50.3
+  },
+  {
+    "label": "circle",
+    "bbox": [
+      207.6,
+      218.4,
+      297.7,
+      308.6
+    ],
+    "centroid": [
+      252.7,
+      263.5
+    ],
+    "rotation_deg": 107.5,
+    "size_px": 45.1
+  },
+  {
+    "label": "ellipse",
+    "bbox": [
+      376.4,
+      219.8,
+      488.0,
+      289.6
+    ],
+    "centroid": [
+      432.2,
+      254.7
+    ],
+    "rotation_deg": 156.6,
+    "size_px": 59.6
+  }
+]
